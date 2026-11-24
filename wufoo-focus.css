@@ -1,8 +1,8 @@
-/* APR mockup forms: white text on the blue focused-field highlight */
-.redesigned-theme-2018 .wufoo li.focused label.desc,
-.redesigned-theme-2018 .wufoo li.focused legend.desc,
-.redesigned-theme-2018 .wufoo li.focused span,
-.redesigned-theme-2018 .wufoo li.focused span label,
-.redesigned-theme-2018 .wufoo li.focused .req {
+/* White text on the blue focused-field highlight in the APR mockup Wufoo forms */
+.wufoo li.focused label.desc,
+.wufoo li.focused legend.desc,
+.wufoo li.focused span,
+.wufoo li.focused span label,
+.wufoo li.focused .req {
   color: #ffffff !important;
 }
